@@ -1,7 +1,8 @@
-## eMobilis Bootcamp
+# eMobilis Bootcamp
 
-> This is a three months bootcamp that focuses on fullstack web development
-# The stack used
+> This is a three months bootcamp that focuses on fullstack web development.
+
+## The stack used
 ```
 1. HTML
 2. CSS
